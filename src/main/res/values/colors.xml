@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="orange_h">#E38A22</color>
+    <color name="orange_b">#FFA93D</color>
+    <color name="green_h">#5BA124</color>
+    <color name="green_b">#8BC95D</color>
+    <color name="blue_h">#2EA7BD</color>
+    <color name="blue_b">#5EC6D7</color>
+    <color name="lightest_blue">#F3FDFD</color>
+
+
+    <color name="orange">#F49100</color>
+    <color name="dark_blue_h">#0B4C77</color>
+    <color name="dark_blue_b">#1C6E8F</color>
+
+
+    <color name="colorPrimary">#173660</color>
+    <color name="colorPrimaryDark">#173660</color>
+    <color name="colorPrimaryLight">#83E1FB</color>
+    <color name="colorAccent">@color/colorPrimaryDark</color>
+    <color name="colorPrimaryGreen">#258A7A</color>
+    <color name="colorGreenDark">#134D45</color>
+    <color name="singleLineColor">@android:color/black</color>
+    <color name="background">#f6f7f8</color>
+    <color name="textColorNormal">@android:color/black</color>
+    <color name="light_grey">#AEAEAE</color>
+    <color name="light_grey_text">#A09B9B</color>
+
+    <color name="light_btn">#f2f2f7</color>
+    <color name="checkListGreen">#E6F5DE</color>
+    <color name="red">@android:color/holo_red_dark</color>
+    <color name="navigationBlue">#1D364D</color>
+    <color name="dark_grey">#6C6C6E</color>
+    <color name="light_blue">#46B2F2</color>
+    <color name="dark_blue">#456DF2</color>
+    <color name="list_item_light_grey">#EEF3F7</color>
+    <color name="list_item_light_grey_2">#F7F9FB</color>
+    <color name="completed_text_green">#248A79</color>
+    <color name="pending_text_red">#ED0E2A</color>
+    <color name="test">#F47575</color>
+    <color name="red_with_alpha">#50ea1931</color>
+    <color name="colorBlue">#4593CA</color>
+    <color name="lightGreen">#46B81E</color>
+    <color name="yellow">#e2980c</color>
+    <color name="lightPink">#E8908E</color>
+    <color name="lightBlack">#555250</color>
+    <!--<color name="textHeader">#505050</color>
+    -->
+    <color name="login_textinput_error_color">#FFC107</color>
+
+    <color name="textHeader">@color/black</color>
+    <color name="textLight">#9aa2a6</color>
+    <color name="light_background">#f2f2f7</color>
+    <color name="dark_background_0">@color/textLight</color>
+    <color name="text_more_light">#CDD5D9</color>
+    <color name="progress_background_color">#CDD5D9</color>
+    <color name="divider_color">@color/light_grey</color>
+    <color name="segmented_checked_text_color">@color/white</color>
+    <color name="segmented_tint_color">@color/colorPrimaryDark</color>
+    <color name="checkBoxColor">#777</color>
+    <color name="task_cancel_line">@color/lightBlack</color>
+    <color name="task_checkbox_tick">@color/white</color>
+    <color name="textColorBlue">@color/colorPrimaryDark</color>
+    <color name="bg_row_background">#fa315b</color>
+    <color name="green_btn">@android:color/holo_green_dark</color>
+    <color name="yellow_btn">@color/yellow</color>
+    <color name="stroke_color">#C6C6C6</color>
+    <!--
+        <color name="task_name_container">#f2f2f7</color>
+    -->
+    <color name="task_name_container">@color/kanban_background</color>
+    <color name="btn_color">@color/colorPrimaryDark</color>
+    <color name="stroke_color_blue">@color/btn_color</color>
+    <color name="ripple_color_blue">@color/btn_color</color>
+    <color name="task_severity_critical">#CE0000</color>
+    <color name="task_severity_important">#EA4444</color>
+    <color name="task_severity_normal">#EA7D24</color>
+    <color name="task_severity_minor">#2A8735</color>
+    <color name="task_severity_low">#55A557</color>
+    <color name="kanban_background">#e2e4e6</color>
+    <color name="task_red">#E5493A</color>
+    <color name="epic_purple">#904EE2</color>
+    <color name="task_blue">#4BADE8</color>
+    <color name="fab_ripple_color">@color/light_grey</color>
+    <color name="search_bar_background">#E3E8ED</color>
+    <color name="editor_icon_tint">@color/black</color>
+    <color name="list_divider_color"></color>
+    <color name="charcoal">#36454f</color>
+    <color name="ms_grey">#F4F4F4</color>
+    <color name="blue">#0a75ad</color>
+
+
+    <color name="error">#FF3B30</color>
+    <color name="notification">#FF9500</color>
+    <color name="warning">#F5DE23</color>
+    <color name="success">#4CD964</color>
+    <color name="sky_blue">#00ACCE</color>
+    <color name="turqoise">#0BD0D9</color>
+    <color name="app_gray">#A6A6A7</color>
+    <color name="chat_receive">#E7F3F8</color>
+    <color name="app_clr_dark">#75CDEF</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+
+    <color name="light_color">#DFDFDF</color>
+    <color name="dark_color">#878787</color>
+    <color name="dark_color2">#333333</color>
+    <color name="light_brown">#F3F3F3</color>
+    <color name="green">#9EC54B</color>
+    <color name="colorSecondary">#004F9F</color>
+
+    <color name="green_light">#c9f0cc</color>
+    <color name="yellow_light">#fff9b3</color>
+    <color name="yellow_light_white">#fceac6</color>
+    <color name="pink_light">#e6c7bb</color>
+    <color name="red_light">#dcbbba</color>
+
+
+    <!--Blood pressure color in dark-->
+    <color name="bp_green">#a6ce39</color>
+    <color name="bp_yellow">#ffec00</color>
+    <color name="bp_orange_lite">#ffb600</color>
+    <color name="bp_orange_dark">#ba3a02</color>
+    <color name="bp_red_dark">#990711</color>
+    <color name="ef_grey">#9E9E9E</color>
+
+
+</resources>

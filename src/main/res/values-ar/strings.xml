@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaseApp</string>
+    <string name="required">مطلوب</string>
+    <string name="succuess">نجاح</string>
+    <string name="error">خطأ</string>
+    <string name="ok">نعم</string>
+    <string name="pick_from_camera">اختر من الكاميرا</string>
+    <string name="pick_from_gallery">اختر من المعرض</string>
+    <string name="select_document">اختر مستند</string>
+
+    <string name="required_cap">مطلوب</string>
+    <string name="success_cap">نجاح</string>
+    <string name="error_cap">خطأ</string>
+    <string name="ok_cap">نعم</string>
+
+</resources>

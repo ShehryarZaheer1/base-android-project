@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <scale
+        android:duration="@integer/search_icon_scale_animation_time"
+        android:fillAfter="false"
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="0.9"
+        android:toYScale="0.9" />
+    <scale
+        android:duration="@integer/search_icon_scale_animation_time_start_offset"
+        android:fillAfter="false"
+        android:fromXScale="0.9"
+        android:fromYScale="0.9"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:startOffset="@integer/search_icon_scale_animation_time"
+        android:toXScale="1.0"
+        android:toYScale="1.0" />
+
+
+</set>

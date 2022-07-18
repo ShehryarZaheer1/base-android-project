@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:top="6dp" android:bottom="6dp"
+        android:start="6dp" android:end="6dp"
+        android:drawable="@drawable/bg_card_round" />
+
+    <item android:drawable="@drawable/ic_baseline_cancel_24" />
+
+</layer-list>

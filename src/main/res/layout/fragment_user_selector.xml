@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/margin_large">
+
+            <LinearLayout
+                android:id="@+id/cont_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:foreground="@drawable/round_ripple_on_secondary"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingTop="@dimen/margin_small"
+                android:paddingBottom="@dimen/margin_small">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/icon_small"
+                    android:src="@drawable/ic_close_black_24dp" />
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/tv_selection_title"
+                style="@style/TextAppearance.MdcTypographyStyles.Headline6"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_normal"
+                android:layout_weight="1"
+                android:text="Select Location" />
+
+            <Button
+                android:id="@+id/btn_select"
+                style="@style/MaterialButton.Round.InsetHigh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/select"
+                android:textColor="?attr/colorSecondary"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btn_add_new"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:text="@string/add_new"
+                android:visibility="gone"
+                app:icon="@drawable/ic_add_white_24dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cont_search_bar"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="@dimen/margin_medium"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="@dimen/margin_medium"
+            android:background="@drawable/rounded_search_field"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="@dimen/margin_normal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_small"
+                android:src="@drawable/ic_search_black_24dp" />
+
+            <EditText
+                android:id="@+id/et_search_bar"
+                style="@style/MyEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_normal"
+                android:layout_marginRight="@dimen/margin_normal"
+                android:background="@null"
+                android:hint="@string/search" />
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_users"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:nestedScrollingEnabled="false">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </LinearLayout>
+
+
+</LinearLayout>

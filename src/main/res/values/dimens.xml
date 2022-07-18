@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_extra_large">24dp</dimen>
+    <dimen name="card_elevation_3dp">3dp</dimen>
+    <dimen name="btn_radius">200dp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_subheading">14sp</dimen>
+    <dimen name="text_size_edittext">17sp</dimen>
+    <dimen name="image_view_small">50dp</dimen>
+    <dimen name="single_line_height">0.5dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="image_view_dashboard">60dp</dimen>
+    <dimen name="iv_profile">50dp</dimen>
+    <dimen name="iv_profile_lg">70dp</dimen>
+    <dimen name="image_view_dispensary">90dp</dimen>
+    <dimen name="btn_width">100dp</dimen>
+    <dimen name="dashboard_profie">80dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="text_size_toolbar">18sp</dimen>
+    <dimen name="text_heading_size_large">30sp</dimen>
+    <dimen name="no_margin">0dp</dimen>
+    <dimen name="richtext_texteditor_icon">5dp</dimen>
+    <dimen name="default_ed_height">60dp</dimen>
+    <dimen name="text_heading_size">20sp</dimen>
+    <dimen name="text_list_heading_size">18sp</dimen>
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="btn_small_height">30dp</dimen>
+    <dimen name="text_heading_size_small">20sp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="dashboard_segment_image">100dp</dimen>
+    <dimen name="dashboard_segment_image_long">120dp</dimen>
+    <dimen name="btn_margin_left_right">50dp</dimen>
+    <dimen name="radius_round">200dp</dimen>
+    <dimen name="dot">6dp</dimen>
+    <dimen name="form_sub_heading">16sp</dimen>
+    <dimen name="round_corner_btn_corner_size">5dp</dimen>
+    <dimen name="btn_min_height">40dp</dimen>
+
+    <dimen name="btn_small_inset">3dp</dimen>
+    <dimen name="btn_big_inset">8dp</dimen>
+    <dimen name="icon_btn_min_width_height">42dp</dimen>
+    <dimen name="tool_bar_icon">30dp</dimen>
+    <dimen name="icon_small">24dp</dimen>
+    <dimen name="icon_mini">15dp</dimen>
+    <dimen name="icon_mini_control">18dp</dimen>
+    <dimen name="profile_edit">40dp</dimen>
+    <dimen name="edit_text_radius">4dp</dimen>
+    <dimen name="card_view_radius">8dp</dimen>
+    <dimen name="navigation_drawer_width">300dp</dimen>
+    <dimen name="big_image_height">200dp</dimen>
+    <dimen name="credit_card_height">55dp</dimen>
+    <dimen name="edit_text_large">100dp</dimen>
+    <dimen name="bottom_sheet_recyclerview_height">300dp</dimen>
+    <dimen name="loader">100dp</dimen>
+    <dimen name="appointment_type_image">80dp</dimen>
+    <dimen name="rich_editor_height">140dp</dimen>
+    <dimen name="coupon_field">60dp</dimen>
+    <dimen name="large_edittext_height">140dp</dimen>
+    <dimen name="track_your_progress">300dp</dimen>
+    <dimen name="image_view_big">400dp</dimen>
+    <dimen name="margin_huge">40dp</dimen>
+    <dimen name="margin_humungous">60dp</dimen>
+    <dimen name="small_circle">7dp</dimen>
+    <dimen name="done_task_strikethrough">2dp</dimen>
+    <dimen name="profile_image">45dp</dimen>
+    <dimen name="profile_image_small">30dp</dimen>
+    <dimen name="progress_background_padding">0dp</dimen>
+    <dimen name="progress_bar_height">8dp</dimen>
+    <dimen name="icon_much_mini">16dp</dimen>
+    <dimen name="segmented_border_width">1dp</dimen>
+    <dimen name="segmented_corner_radius">5dp</dimen>
+    <dimen name="bottom_sheet_corner_radius">10dp</dimen>
+    <dimen name="bottom_sheet_top_padding">5dp</dimen>
+    <dimen name="task_checkbox">20dp</dimen>
+    <dimen name="task_cancel_line">1dp</dimen>
+    <dimen name="task_checkbox_stroke">2dp</dimen>
+    <dimen name="icon_normal">36dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="icon_size_medium">30dp</dimen>
+    <dimen name="icon_thirty">30dp</dimen>
+    <dimen name="edittext_normal">36dp</dimen>
+    <dimen name="edit_text_icon">28dp</dimen>
+    <dimen name="round_edit_text">60dp</dimen>
+    <dimen name="margin_mini">2dp</dimen>
+    <dimen name="dragger_view">10dp</dimen>
+    <dimen name="left_status_line">4dp</dimen>
+    <dimen name="bottom_bar_height">56dp</dimen>
+    <dimen name="btn_height">44dp</dimen>
+    <dimen name="circle_progress_bar_thickness">3dp</dimen>
+    <dimen name="profile_image_big">60dp</dimen>
+    <dimen name="profile_image_big_progress">70dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+    <dimen name="checkbox_icon">20dp</dimen>
+
+    <dimen name="round_btn_corner_size">20dp</dimen>
+    <dimen name="toggle_btn_text_size">12sp</dimen>
+    <dimen name="profile_image_mini">20dp</dimen>
+    <dimen name="boardEdges">0dp</dimen>
+    <dimen name="columnSpacing">10dp</dimen>
+    <dimen name="name_width">50dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="attachment_width">125dp</dimen>
+    <dimen name="attachment_height">125dp</dimen>
+    <dimen name="progress_bar_medium">20dp</dimen>
+    <dimen name="name_max_width">280dp</dimen>
+    <dimen name="search_field_height">36dp</dimen>
+    <dimen name="search_container_height">44dp</dimen>
+    <dimen name="icon_medium">20dp</dimen>
+    <dimen name="dashboard_item_height">300dp</dimen>
+    <dimen name="editor_btn">40dp</dimen>
+    <dimen name="editor_btn_padding">10dp</dimen>
+    <dimen name="image_standard">100dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="iv_profile_small">30dp</dimen>
+    <dimen name="btn_action">75dp</dimen>
+    <dimen name="rv_dashboard">250dp</dimen>
+    <dimen name="cb_height">30dp</dimen>
+    <dimen name="iv_normal">60dp</dimen>
+    <dimen name="iv_medium">80dp</dimen>
+    <dimen name="dp14">14dp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="sp14">14sp</dimen>
+    <dimen name="sp16">16sp</dimen>
+    <dimen name="step_height">30dp</dimen>
+    <dimen name="step_width">30dp</dimen>
+    <dimen name="btn_min_width">150dp</dimen>
+    <dimen name="btn_min_width_md">200dp</dimen>
+    <dimen name="btn_min_width_lg">250dp</dimen>
+    <dimen name="iv_attachment">80dp</dimen>
+    <dimen name="calender_padding">2dp</dimen>
+    <dimen name="btn_small_height_two">40dp</dimen>
+    <dimen name="progress_bar">45dp</dimen>
+    <dimen name="chat_radius">10dp</dimen>
+    <dimen name="image_width_height_small">50dp</dimen>
+    <dimen name="home_tab_elevation">4dp</dimen>
+    <dimen name="progressbar">50dp</dimen>
+    <dimen name="big_field">100dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">0dp</dimen>
+
+    <dimen name="profile_image_home">56dp</dimen>
+
+
+    <dimen name="btn_text_size">14dp</dimen>
+
+    <dimen name="edit_text_size">15dp</dimen>
+
+
+    <dimen name="heading_size">20dp</dimen>
+    <dimen name="email_size">18dp</dimen>
+    <dimen name="text_view_size">18dp</dimen>
+    <dimen name="text_view_padding">3dp</dimen>
+
+    <dimen name="small_icon_size">30dp</dimen>
+
+    <dimen name="dashboard_card_view_height">65dp</dimen>
+
+    <dimen name="padding_mini">2dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_normal">8dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_extra_large">24dp</dimen>
+
+
+
+
+</resources>

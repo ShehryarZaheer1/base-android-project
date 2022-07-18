@@ -1,0 +1,41 @@
+<resources>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr name="appWidgetPadding" format="dimension" />
+        <attr name="appWidgetInnerRadius" format="dimension" />
+        <attr name="appWidgetRadius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="HeadingValueView">
+        <attr name="heading" format="string" />
+        <attr name="value" format="string" />
+        <attr name="isSmall" format="boolean" />
+        <attr name="layoutOrientation">
+            <!-- Defines an horizontal widget. -->
+            <enum name="horizontal" value="0" />
+            <!-- Defines a vertical widget. -->
+            <enum name="vertical" value="1" />
+        </attr>
+
+        <attr name="isOnPrimary" format="boolean" />
+
+    </declare-styleable>
+
+    <declare-styleable name="MyTextInputEditText">
+        <attr name="hint" format="string" />
+        <attr name="text" format="string" />
+        <attr name="android:inputType">
+            <flag name="text" value="0x00000001" />
+            <flag name="number" value="0x00000002" />
+            <flag name="phone" value="0x00000003" />
+            <flag name="textPassword" value="0x00000081" />
+            <flag name="textMultiLine" value="0x00020001" />
+            <flag name="numberDecimal" value="0x00002002" />
+            <flag name="numberPassword" value="0x00000012" />
+        </attr>
+        <attr name="isFocusable" format="boolean" />
+        <attr name="isDatePicker" format="boolean"/>
+        <attr name="isTimePicker" format="boolean"/>
+        <attr name="is24HourFormat" format="boolean"/>
+
+    </declare-styleable>
+</resources>
